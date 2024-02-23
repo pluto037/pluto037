@@ -1,4 +1,4 @@
-### Hi there 👋 This is Pluto 😎
+### Hi there 👋 This is Pluto <img src="./img/cat.gif" alt="Meaow" width="50" />
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
 
