@@ -1,6 +1,8 @@
 ### Hi there 👋 This is Pluto <img src="./img/cat.gif" alt="Meaow" width="50" />
+![Visitor Count](https://profile-counter.glitch.me/pluto037/count.svg)
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pluto037&layout=compact&theme=tokyonight)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning go and java
