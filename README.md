@@ -66,6 +66,19 @@ And sometimes I fight bugs that suddenly become features 🐛➡️✨
 
 - GitHub: [@pluto037](https://github.com/pluto037)
 
+## 📊 Dev Mood
+
+- Coffee level: ☕☕☕☕☕
+- Shipping speed: 🚀🚀🚀
+- Bug tolerance: 🧘
+- Curiosity: ♾️
+- Side project ideas: too many 💡💥
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pluto037&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pluto037&layout=compact&theme=radical)
+
 ## ✨ Motto
 
 > Build useful things.  
